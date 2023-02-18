@@ -1,2 +1,3 @@
-# TASK1-OASIS-INFOBYTE
-LANDING PAGE
+# Split-Homepage-Design
+
+Here is the demo: https://godsont.github.io/Split-Homepage-Design
